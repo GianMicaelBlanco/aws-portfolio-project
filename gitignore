@@ -1,0 +1,7 @@
+# NEVER upload secret keys or passwords to GitHub
+*.pem
+*.ppk
+*.key
+.env
+*.csv
+.DS_Store
