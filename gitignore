@@ -1,0 +1,10 @@
+# Project: Secure Cloud-Hosted Portfolio on AWS EC2
+# Author: Gian Micael Blanco
+#
+# NEVER upload secret keys or passwords to GitHub
+*.pem
+*.ppk
+*.key
+.env
+*.csv
+.DS_Store
